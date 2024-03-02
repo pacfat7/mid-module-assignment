@@ -6,15 +6,15 @@ Use of Python's sys.maxsize to represent infinity for unreachable paths
 # prerequisites
 Python 3.x installed on your local machine or use a virtual IDE that supports Python, such as Repl.it.
 # set up
-Local IDE
+## local IDE
 Clone the repository to your local machine:
 git clone [https://github.com/pacfat7/mid-module-assignment.git]
 Navigate to the cloned directory:
 cd mid-module-assignment
 Run the script:
 python main.py
-Virtual IDE
-Log into your virtual IDE - replt.it
+## virtual IDE
+Log into your virtual IDE - [https://replit.it/]
 Click the + Create button and select Import from GitHub.
 Paste the URL of your GitHub repository [https://github.com/pacfat7/mid-module-assignment.git] and click Import.
 Once imported, you can run the code directly in Repl.it's online IDE
